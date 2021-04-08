@@ -1,0 +1,16 @@
+{
+  "code": 200,
+  "data": [
+    {"id": 1,"company_name": "Toyota","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2021/03/30"},
+    {"id": 2,"company_name": "Mitsubishi Group","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2021/03/30"},
+    {"id": 3,"company_name": "NTT Group","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2021/05/15"},
+    {"id": 4,"company_name": "Honda","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2022/01/01"},
+    {"id": 5,"company_name": "Sumitomo Group","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2021/03/30"},
+    {"id": 6,"company_name": "Mitsui","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2021/03/30"},
+    {"id": 7,"company_name": "Nissan","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2021/03/30"},
+    {"id": 8,"company_name": "SoftBank","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2021/03/30"},
+    {"id": 9,"company_name": "au","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2021/03/30"},
+    {"id": 10,"company_name": "Hitachi","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2021/03/30"},
+  ],
+  "error": null
+}
