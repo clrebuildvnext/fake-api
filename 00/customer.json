@@ -1,5 +1,5 @@
 {
-  "code": 200,
+  "code": "STS000",
   "data": [
     {"id": 1,"company_name": "Toyota","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2021/03/30"},
     {"id": 2,"company_name": "Mitsubishi Group","name": "＊＊＊＊＊＊","division": "＊＊＊＊＊＊", "status": "トライアル", "end_date": "2021/03/30"},

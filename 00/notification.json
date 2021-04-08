@@ -1,5 +1,5 @@
 {
-  "code": 200,
+  "code": "STS000",
   "data": [
     {"id": 1, "received_date": "2021/03/30", "level": "＊＊＊＊＊＊", "title": "＊＊＊＊＊＊", "status": "未読"},
     {"id": 2, "received_date": "2021/03/29", "level": "＊＊＊＊＊＊", "title": "＊＊＊＊＊＊", "status": "未読"},
